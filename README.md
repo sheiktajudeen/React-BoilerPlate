@@ -1,1 +1,6 @@
-reactjs boiler plate
+reactjs boiler plate with,
+
+webpack
+jquery
+sass/scss
+react-router
